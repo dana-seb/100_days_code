@@ -6,6 +6,7 @@ total_height = 0
 for height in student_heights:
     total_height += height
 print(f'total_height = {total_height}')
+# print(sum(student_heights))
 
 number_of_students = 0
 for student in student_heights:
